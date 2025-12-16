@@ -33,8 +33,6 @@
 ##  About Me
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-## About Me
-
 **Education**
 - Currently a student, focusing on Java Backend Development
 
