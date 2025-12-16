@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=24&pause=1000&color=36BCF7&
-width=600&lines=Hi%2C+I'm+Bac;Java+%26+OOP+Learner;Future+Software+Engineer)
+
 
 ---
 
