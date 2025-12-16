@@ -33,10 +33,17 @@
 ##  About Me
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
--  Currently learning **JAVA SPRING BOOT**
--  Practicing with small projects and exercises
--  Aim: become a **Software Engineer**
+education:
+    - "Currently students"
 
+interests:
+    - "Backend - devlopments"
+    - "Cloud Computing"
+
+hobbies:
+    - "New things"
+    - "Workout"
+    - "Gaming"
 ---
 
 ##  Skills
