@@ -11,7 +11,7 @@
     width: fit-content;
     margin: 24px auto;
   ">
-    Hello There
+    
   </div>
 </div>
 
