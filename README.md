@@ -4,18 +4,21 @@
 
 <div align="center">
   <div style="
-    background-color: #2b2b2b;
-    color: #f1c232;
-    padding: 24px 40px;
+    background-color: #1b263b;
+    color: #1e90ff;
+    padding: 24px 48px;
     border-radius: 999px;
     font-size: 48px;
     font-weight: 700;
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+    letter-spacing: 1px;
     width: fit-content;
-    margin: 20px auto;
+    margin: 24px auto;
   ">
     Hello There
   </div>
 </div>
+
 
 
 🎓 Student | 💻 Java OOP Learner  
