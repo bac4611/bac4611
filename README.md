@@ -1,4 +1,7 @@
-
+Hello There
+![Typing SVG](https://readme-typing-svg.herokuapp.com?
+font=Fira+Code&size=22&pause=1000&color=1E90FF&
+width=500&lines=Java+OOP+Learner;Future+Software+Engineer)
 
 ---
 
@@ -9,6 +12,7 @@
 ---
 
 ##  About Me
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 -  Currently learning **Java & OOP**
 -  Practicing with small projects and exercises
