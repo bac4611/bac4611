@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=1E90FF&center=true&vCenter=true&width=500&lines=Java+Spring+Boot;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi+there+!;Future+Software+Engineer" />
 </p>
 
 ---
