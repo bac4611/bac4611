@@ -2,22 +2,22 @@
 
 ---
 
-# 👋 Hi, I'm Bac
+#  Hi, I'm Bac
 
 🎓 Student | 💻 Java OOP Learner  
 📍 Interested in Object-Oriented Programming & Software Development
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 📘 Currently learning **Java & OOP**
-- 🛠 Practicing with small projects and exercises
-- 🚀 Aim: become a **Software Engineer**
+-  Currently learning **Java & OOP**
+-  Practicing with small projects and exercises
+-  Aim: become a **Software Engineer**
 
 ---
 
-## 🎨 Skills
+##  Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge)
@@ -33,7 +33,7 @@
 
 
 
-## 📫 Reach out to me
+##  Reach out to me
 
 <p align="left">
   <a href="https://github.com/bac4611">
