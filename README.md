@@ -19,11 +19,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=1E90FF&center=true&vCenter=true&width=500&lines=Java+Spring+Boot;Future+Software+Engineer" />
 </p>
 
-
 ---
-
----
-
 
 🎓 Student | 💻 Java Learner  
 📍 Interested in Object-Oriented Programming & Software Development
@@ -61,15 +57,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-
-
-
 ---
-
-
-
-
-
 
 ##  Reach out to me
 
