@@ -2,7 +2,21 @@
 
 ---
 
-#  Hi, I'm Bac
+<div align="center">
+  <div style="
+    background-color: #2b2b2b;
+    color: #f1c232;
+    padding: 24px 40px;
+    border-radius: 999px;
+    font-size: 48px;
+    font-weight: 700;
+    width: fit-content;
+    margin: 20px auto;
+  ">
+    Hello There
+  </div>
+</div>
+
 
 🎓 Student | 💻 Java OOP Learner  
 📍 Interested in Object-Oriented Programming & Software Development
