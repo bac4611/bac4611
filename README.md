@@ -33,17 +33,20 @@
 ##  About Me
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-education:
-    - "Currently students"
+## About Me
 
-interests:
-    - "Backend - devlopments"
-    - "Cloud Computing"
+**Education**
+- Currently student
 
-hobbies:
-    - "New things"
-    - "Workout"
-    - "Gaming"
+**Interests**
+- Backend Development
+- Cloud Computing
+
+**Hobbies**
+- Learning new things
+- Workout
+- Gaming
+
 ---
 
 ##  Skills
