@@ -24,7 +24,7 @@
 ---
 
 
-🎓 Student | 💻 Java OOP Learner  
+🎓 Student | 💻 Java Learner  
 📍 Interested in Object-Oriented Programming & Software Development
 
 ---
@@ -32,7 +32,7 @@
 ##  About Me
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
--  Currently learning **Java & OOP**
+-  Currently learning **JAVA SPRING BOOT**
 -  Practicing with small projects and exercises
 -  Aim: become a **Software Engineer**
 
