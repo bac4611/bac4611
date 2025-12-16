@@ -36,7 +36,13 @@
 ## About Me
 
 **Education**
-- Currently student
+- Currently a student, focusing on Java Backend Development
+
+**Interests**
+- Backend Development with Spring Boot
+- RESTful API design
+- Database & Cloud fundamentals
+
 
 **Interests**
 - Backend Development
@@ -49,13 +55,14 @@
 
 ---
 
-##  Skills
+## Skills
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-1E90FF?style=flat)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-1E90FF?style=flat)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 
 
