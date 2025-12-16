@@ -28,21 +28,9 @@ width=600&lines=Hi%2C+I'm+Bac;Java+%26+OOP+Learner;Future+Software+Engineer)
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bac4611&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bac4611&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bac4611&theme=tokyonight)
-
----
-
-## 📫 Contact
+ 📫 Contact
 - 💼 GitHub: https://github.com/bac4611
 
 ---
