@@ -2,24 +2,7 @@
 
 ---
 
-<div align="center">
-  <div style="
-    background-color: #1b263b;
-    color: #1e90ff;
-    padding: 24px 48px;
-    border-radius: 999px;
-    font-size: 48px;
-    font-weight: 700;
-    font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
-    letter-spacing: 1px;
-    width: fit-content;
-    margin: 24px auto;
-  ">
-    Hello There
-  </div>
-</div>
-
-
+HI!
 
 🎓 Student | 💻 Java OOP Learner  
 📍 Interested in Object-Oriented Programming & Software Development
