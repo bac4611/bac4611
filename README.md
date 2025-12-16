@@ -29,7 +29,8 @@
 
 
  📫 Contact
-- 💼 GitHub: https://github.com/bac4611
+[![GitHub](https://img.shields.io/badge/GitHub-bac4611-181717?style=for-the-badge&logo=github)](https://github.com/bac4611)
+[![Gmail](https://img.shields.io/badge/Gmail-damxuanbachochbt10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
 
 ---
 
