@@ -36,6 +36,7 @@
 - Backend Development with **ASP.NET Core**
 - RESTful API design
 - Database & Cloud fundamentals
+- Object Oriented Programming (OOP)
 
 **Tech Interests**
 - Backend Development
