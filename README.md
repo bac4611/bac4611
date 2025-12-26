@@ -22,7 +22,7 @@
 ---
 
 🎓 Student | 💻 .NET Learner  
-📍 Interested in Backend Development & Software Engineering
+📍 Interested in Backend Development & Software Engineering (AWS-oriented)
 
 ---
 
@@ -43,7 +43,7 @@
 
 **Tech Interests**
 - Backend Development
-- Cloud Computing (Azure basics)
+- Cloud Computing (AWS basics)
 
 **Hobbies**
 - Learning new things
