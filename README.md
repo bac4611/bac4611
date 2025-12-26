@@ -16,31 +16,30 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi+There!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi+There!;I'm+a+.NET+Backend+Learner" />
 </p>
 
 ---
 
-🎓 Student | 💻 Java Learner  
-📍 Interested in Object-Oriented Programming & Software Development
+🎓 Student | 💻 .NET Learner  
+📍 Interested in Backend Development & Software Engineering
 
 ---
 
-##  About Me
+## About Me
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 **Education**
-- Currently a student, focusing on Java Backend Development
+- Currently a student, focusing on **.NET Backend Development**
 
 **Interests**
-- Backend Development with Spring Boot
+- Backend Development with **ASP.NET Core**
 - RESTful API design
 - Database & Cloud fundamentals
 
-
-**Interests**
+**Tech Interests**
 - Backend Development
-- Cloud Computing
+- Cloud Computing (Azure basics)
 
 **Hobbies**
 - Learning new things
@@ -51,15 +50,17 @@
 
 ## Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-1E90FF?style=flat)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-##  Reach out to me
+## Reach out to me
 
 <p align="left">
   <a href="https://github.com/bac4611">
@@ -75,10 +76,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-
-
-
 
 ---
 
