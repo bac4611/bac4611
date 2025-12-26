@@ -27,7 +27,10 @@
 ---
 
 ## About Me
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
+</p>
+
 
 **Education**
 - Currently a student, focusing on **.NET Backend Development**
