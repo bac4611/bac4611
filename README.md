@@ -1,6 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20There&animation=fadeIn&type=cylinder&color=auto&height=100&fontSize=50&fontAlignY=65&theme=gruvbox"/>
+  <img src="https://capsule-render.vercel.app/api
+?text=Hi%20There
+&animation=fadeIn
+&type=cylinder
+&height=100
+&fontSize=50
+&fontAlignY=65
+&color=0:0f2027,100:203a43
+&fontColor=ffffff"/>
 </p>
+
 
 ---
 
