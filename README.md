@@ -23,8 +23,6 @@ interests:
   - "Backend development"
   - "System design"
   - "Clean Architecture"
-  - "Microservices"
-  - "Performance optimization"
   - "Cloud computing"
 
 hobbies:
