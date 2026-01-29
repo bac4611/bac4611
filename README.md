@@ -12,6 +12,7 @@ title: .NET Developer
 skills:
   - ".NET"
   - "C#"
+  - "Java"
   - "ASP.NET Core Web API"
   - "Entity Framework"
   - "SQL server / MongoDB"
