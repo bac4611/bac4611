@@ -14,7 +14,7 @@ skills:
   - "C#"
   - "ASP.NET Core Web API"
   - "Entity Framework"
-  - "SQL / NoSQL"
+  - "SQL server / MongoDB"
   - "RESTful APIs"
   - "Design Patterns"
 
