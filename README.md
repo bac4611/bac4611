@@ -50,27 +50,18 @@ Reach out to me
   </a>
 </p>
 
-## <h3 align="left"><img src = "/Images/tech_stacks.gif" width = 24px>   Tech Stacks :</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="100" style="padding: 10px;">
-      <img [src="/Images/java.png" width="50" height="50"]/><br>Java
-    </td>
-    <td align="center" width="100" style="padding: 10px;">
-      <img src="/Images/restful.png" width="50" height="50" /><br>REST APIs
-    </td>
-    <td align="center" width="100" style="padding: 10px;">
-      <img src="/Images/mysql.png" width="50" height="50" /><br>MySQL
-    </td>
-    <td align="center" width="100" style="padding: 10px;">
-      <img src="/Images/mongoDB.png" width="50" height="50" /><br>MongoDB
-    </td>
-    <td align="center" width="100" style="padding: 10px;">
-      <img src="/Images/git.png" width="50" height="50" /><br>Git
-    </td>
-    <td align="center" width="100" style="padding: 10px;">
-      <img src="/Images/github.png" width="50" height="50" /><br>GitHub
-    </td>
+<h2 align="center">🖥 Technologies i have worked with: </h2>
+<p align="center"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://cdn.svgporn.com/logos/java.svg" width="100" height="100"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.svglogos.dev/logos/docker-icon.svg" width="70" height="100"/> </a>
+    <a href="https://www.microsoft.com/en-in/power-platform/products/power-bi/" target="_blank"> <img src="https://cdn.svglogos.dev/logos/microsoft-power-bi.svg" width="70" height="100"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.svglogos.dev/logos/visual-studio-code.svg" width="70" height="100"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="70" height="100"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/mysql.svg" width="80" height="100"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="mongodb" width="70" height="100"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="70" height="100"/> </a> 
+  
+</p>
     <td align="center" width="100" style="padding: 10px;">
       <img src="/Images/html.png" width="50" height="50" /><br>HTML
     </td>
