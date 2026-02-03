@@ -40,7 +40,6 @@ Reach out to me
     <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.svglogos.dev/logos/docker-icon.svg" width="70" height="100"/> </a>
     <a href="https://www.microsoft.com/en-in/power-platform/products/power-bi/" target="_blank"> <img src="https://cdn.svglogos.dev/logos/microsoft-power-bi.svg" width="70" height="100"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.svglogos.dev/logos/visual-studio-code.svg" width="70" height="100"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="70" height="100"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/mysql.svg" width="80" height="100"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="mongodb" width="70" height="100"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="70" height="100"/> </a>
