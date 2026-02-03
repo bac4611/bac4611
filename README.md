@@ -54,7 +54,7 @@ Reach out to me
 <table align="center">
   <tr>
     <td align="center" width="100" style="padding: 10px;">
-      <img src="/Images/java.png" width="50" height="50" /><br>Java
+      <img [src="/Images/java.png" width="50" height="50"]/><br>Java
     </td>
     <td align="center" width="100" style="padding: 10px;">
       <img src="/Images/restful.png" width="50" height="50" /><br>REST APIs
