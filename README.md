@@ -44,7 +44,7 @@ Reach out to me
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/mysql.svg" width="80" height="100"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="mongodb" width="70" height="100"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="70" height="100"/> </a>
-    <a href="[https://git-scm.com](https://learn.microsoft.com/en-us/dotnet/csharp/)/" target="_blank"> <img src="https://cdn.svgl.app/logos/csharp.svg" width="70" /></a>
+    
     
 
   
