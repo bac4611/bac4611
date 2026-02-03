@@ -49,3 +49,33 @@ Reach out to me
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+## <h3 align="left"><img src = "/Images/tech_stacks.gif" width = 24px>   Tech Stacks :</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/java.png" width="50" height="50" /><br>Java
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/restful.png" width="50" height="50" /><br>REST APIs
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/mysql.png" width="50" height="50" /><br>MySQL
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/mongoDB.png" width="50" height="50" /><br>MongoDB
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/git.png" width="50" height="50" /><br>Git
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/github.png" width="50" height="50" /><br>GitHub
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/html.png" width="50" height="50" /><br>HTML
+    </td>
+    <td align="center" width="100" style="padding: 10px;">
+      <img src="/Images/css.png" width="50" height="50" /><br>CSS
+    </td>
+    
+  </tr>
