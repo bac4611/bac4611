@@ -13,6 +13,7 @@ skills:
   - ".NET"
   - "C#"
   - "Java"
+  - "HTML/CSS/Javascript"
   - "ASP.NET Core Web API"
   - "Entity Framework"
   - "SQL server / MongoDB"
