@@ -62,11 +62,5 @@ Reach out to me
     <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="70" height="100"/> </a> 
   
 </p>
-    <td align="center" width="100" style="padding: 10px;">
-      <img src="/Images/html.png" width="50" height="50" /><br>HTML
-    </td>
-    <td align="center" width="100" style="padding: 10px;">
-      <img src="/Images/css.png" width="50" height="50" /><br>CSS
-    </td>
     
-  </tr>
+ 
