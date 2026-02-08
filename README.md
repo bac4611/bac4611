@@ -6,8 +6,8 @@
 <h2>&nbsp;About me</h2>
 
 ```yaml
-name: Bac Dam
-title: .NET Developer
+Bac Dam
+.NET Developer
 
 skills:
   - ".NET"
