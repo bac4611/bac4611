@@ -7,7 +7,7 @@
 
 ```yaml
 Bac Dam
-Software developer
+Software Developer
 
 skills:
   - "Java"
