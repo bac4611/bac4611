@@ -10,18 +10,18 @@ Bac Dam
 .NET Developer
 
 skills:
-  - ".NET"
-  - "C#"
   - "Java"
-  - "HTML/CSS/Javascript"
-  - "ASP.NET Core Web API"
-  - "Entity Framework"
-  - "SQL server / MongoDB"
+  - "C#"
+  - "Spring Boot"
   - "RESTful APIs"
-  - "Design Patterns"
+  - "SQL / MySQL"
+  - "JPA / Hibernate"
+  - "Spring Security"
+  - "Maven"
+  - "HTML/CSS/JavaScript"
+  - "OOP"
 
 interests:
-  - "Backend development"
   - "System design"
   - "Clean Architecture"
   - "Cloud computing"
