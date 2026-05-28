@@ -19,13 +19,13 @@ skills:
   - "Maven"
   - "HTML/CSS/JavaScript"
   - "OOP"
-  -"Postman"
+  - "Postman"
 
 interests:
   - "System design"
   - "Clean Architecture"
   - "Cloud computing"
-  - "networking"
+  - "Networking"
 
 hobbies:
     - "Learning new things"
