@@ -7,7 +7,6 @@
 
 ```yaml
 Bac Dam
-Software Developer
 
 skills:
   - "Java"
@@ -26,6 +25,7 @@ interests:
   - "System design"
   - "Clean Architecture"
   - "Cloud computing"
+  - "networking"
 
 hobbies:
     - "Learning new things"
