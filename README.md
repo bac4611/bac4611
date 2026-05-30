@@ -30,7 +30,7 @@ interests:
 hobbies:
     - "Learning new things"
     - "Playing games"
-    - "Workout"'
+    - "Workout"
 ```
 
 ---
