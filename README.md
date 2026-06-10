@@ -13,13 +13,14 @@ skills:
   - "C#"
   - "Spring Boot"
   - "RESTful APIs"
-  - "MongoDB / MySQL"
+  - "MongoDB / SQL Server"
   - "JPA / Hibernate"
   - "Spring Security"
   - "Maven"
   - "HTML/CSS/JavaScript"
   - "OOP"
   - "Postman"
+  
 
 interests:
   - "System design"
