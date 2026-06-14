@@ -6,7 +6,7 @@
 <h2>&nbsp;About me</h2>
 
 ```yaml
-Bac Dam
+Bac 
 
 skills:
   - "Java"
