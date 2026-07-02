@@ -20,7 +20,7 @@ skills:
   - "HTML/CSS/JavaScript"
   - "OOP"
   - "Postman"
-  - "Swagger"
+  - "Swagger UI"
   
 
 interests:
