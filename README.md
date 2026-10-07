@@ -73,7 +73,7 @@ I build with Java, Spring Boot, C#, and .NET, and explore Linux, Docker, Jenkins
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="48" height="48" alt="Microsoft SQL Server" />
 </p>
 
-<p align="center"><strong>MongoDB · Microsoft SQL Server · MySQL</strong></p>
+<p align="center"><strong>MongoDB · MySQL · Microsoft SQL Server</strong></p>
 
 <h3><strong>☁️ Cloud & DevOps</strong></h3>
 
