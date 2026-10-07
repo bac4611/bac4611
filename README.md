@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=%C4%90%C3%A0m+Xu%C3%A2n+B%E1%BA%AFc;Aspiring+Backend+Developer;Interested+in+Cloud+Computing" alt="Đàm Xuân Bắc — Backend and Cloud Computing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&weight=700&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=%C4%90%C3%A0m+Xu%C3%A2n+B%E1%BA%AFc;Aspiring+Backend+Developer;Interested+in+Cloud+Computing" alt="Đàm Xuân Bắc — Backend and Cloud Computing" />
 </h1>
 
 <p align="center">
@@ -48,15 +48,22 @@ Hi! I'm Đàm Xuân Bắc, an aspiring Backend Developer interested in Cloud Com
 <h2 align="center">⚡ Tech Stack & Tools ⚡</h2>
 
 <p align="center">
-  Technologies and tools I use or am currently learning.
+  <strong>Technologies and tools I use or am currently learning.</strong>
 </p>
 
-🧩 Backend & Web Development
+🌐 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,html,css,js" alt="Java, Spring Boot, C#, .NET, HTML, CSS, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript and React" />
 </p>
 
-<p align="center">Java · Spring Boot · C# · .NET · ASP.NET Core MVC · Razor Views</p>
+<p align="center"><strong>HTML · CSS · JavaScript · React</strong></p>
+
+🧩 Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet" alt="Java, Spring Boot, C# and .NET" />
+</p>
+
+<p align="center"><strong>Java · Spring Boot · C# · .NET · ASP.NET Core MVC · Razor Views</strong></p>
 
 🗄️ Databases
 <p align="center">
@@ -64,7 +71,7 @@ Hi! I'm Đàm Xuân Bắc, an aspiring Backend Developer interested in Cloud Com
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge" alt="Microsoft SQL Server" />
 </p>
 
-<p align="center">MongoDB · Microsoft SQL Server · MySQL</p>
+<p align="center"><strong>MongoDB · Microsoft SQL Server · MySQL</strong></p>
 
 ☁️ Cloud & DevOps
 <p align="center">
@@ -72,24 +79,19 @@ Hi! I'm Đàm Xuân Bắc, an aspiring Backend Developer interested in Cloud Com
   <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge" alt="Amazon EC2" />
 </p>
 
-<p align="center">AWS · Amazon EC2 · Docker · Linux · Jenkins</p>
+<p align="center"><strong>AWS · Amazon EC2 · Docker · Linux · Jenkins</strong></p>
 
 ⚙️ Development Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman" alt="VS Code, IntelliJ IDEA, Git, GitHub and Postman" />
 </p>
 
-<p align="center">Visual Studio Code · IntelliJ IDEA · Git · GitHub · Postman</p>
+<p align="center"><strong>Visual Studio Code · IntelliJ IDEA · Git · GitHub · Postman</strong></p>
 
 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bac4611&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats for bac4611" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bac4611&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most used languages for bac4611" />
-</p>
-
-🌱 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bac4611&custom_title=Bac%27s%20Contribution%20Graph&hide_border=true&theme=tokyo-night" alt="Contribution graph for bac4611" />
 </p>
 
 📌 Learning Roadmap
@@ -110,5 +112,5 @@ Hi! I'm Đàm Xuân Bắc, an aspiring Backend Developer interested in Cloud Com
 “Good code should be easy to understand, maintain, and improve.”
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+**  <b>Thanks for visiting my profile! 🚀</b>**
 </p>
