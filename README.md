@@ -11,12 +11,7 @@
 <h2><strong>🧑‍💻 About Me</strong></h2>
 
 Hi! I'm Đàm Xuân Bắc, an aspiring Backend Developer interested in Cloud Computing and DevOps.
-💡 I'm developing my backend skills with Java, Spring Boot, C#, and .NET, while learning how applications are built, deployed, and maintained.
-🛠️ I learn through hands-on practice: building web applications, working with databases, managing source code with Git, and exploring Linux, Docker, and AWS.
-☁️ I'm particularly interested in Cloud Computing, including deploying applications on AWS and understanding the infrastructure behind them.
-🎯 My goal is to build useful applications, write maintainable code, and grow into a developer who understands both software development and deployment.
-“Every project is an opportunity to turn knowledge into practical skills.”
-
+I build with Java, Spring Boot, C#, and .NET, and explore Linux, Docker, Jenkins, and AWS.
 <h2><strong>🏢 Learning & Project Experience</strong></h2>
 
 - 👨‍💻 Project-Based Learning
@@ -95,13 +90,6 @@ Hi! I'm Đàm Xuân Bắc, an aspiring Backend Developer interested in Cloud Com
 </p>
 
 <p align="center"><strong>Visual Studio Code · IntelliJ IDEA · Git · GitHub · Postman</strong></p>
-
-<h2><strong>📊 GitHub Stats</strong></h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bac4611&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats for bac4611" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bac4611&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most used languages for bac4611" />
-</p>
 
 <h2><strong>📌 Learning Roadmap</strong></h2>
 
