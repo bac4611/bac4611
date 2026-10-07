@@ -1,16 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&weight=700&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=%C4%90%C3%A0m+Xu%C3%A2n+B%E1%BA%AFc;Aspiring+Backend+Developer;Interested+in+Cloud+Computing" alt="Đàm Xuân Bắc — Backend and Cloud Computing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&weight=700&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=%C4%90%C3%A0m+Xu%C3%A2n+B%E1%BA%AFc;Aspiring+Software+Engineer;Interested+in+Cloud+Computing" alt="Đàm Xuân Bắc — Software Engineering and Cloud Computing" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aspiring_Backend_Developer-32CD32?style=for-the-badge" alt="Aspiring Backend Developer" />
+  <img src="https://img.shields.io/badge/Aspiring_Software_Engineer-32CD32?style=for-the-badge" alt="Aspiring Software Engineer" />
   <img src="https://img.shields.io/badge/Interested_in_Cloud_Computing-0078D4?style=for-the-badge" alt="Interested in Cloud Computing" />
   <img src="https://img.shields.io/badge/DevOps_Learner-8A2BE2?style=for-the-badge" alt="DevOps Learner" />
 </p>
 
 <h2><strong>🧑‍💻 About Me</strong></h2>
 
-Hi! I'm Đàm Xuân Bắc, an aspiring Backend Developer interested in Cloud Computing and DevOps.
+Hi! I'm Đàm Xuân Bắc, and I aspire to become a Software Engineer with a strong interest in Cloud Computing and DevOps.
 I build with Java, Spring Boot, C#, and .NET, and explore Linux, Docker, Jenkins, and AWS.
 <h2><strong>🏢 Learning & Project Experience</strong></h2>
 
@@ -61,16 +61,16 @@ I build with Java, Spring Boot, C#, and .NET, and explore Linux, Docker, Jenkins
 <h3><strong>🧩 Backend Development</strong></h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet" alt="Java, Spring Boot, C# and .NET" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,spring,cs,dotnet" alt="C, Python, Java, Spring Boot, C# and .NET" />
 </p>
 
-<p align="center"><strong>Java · Spring Boot · C# · .NET · ASP.NET Core MVC · Razor Views</strong></p>
+<p align="center"><strong>C · Python · Java · Spring Boot · C# · .NET · ASP.NET Core MVC · Razor Views</strong></p>
 
 <h3><strong>🗄️ Databases</strong></h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="Microsoft SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="48" height="48" alt="Microsoft SQL Server" />
 </p>
 
 <p align="center"><strong>MongoDB · Microsoft SQL Server · MySQL</strong></p>
